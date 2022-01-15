@@ -1,6 +1,7 @@
 # android-practice
 
-Navigation Drawer, Fragment, SQLite를 활용한 간단 영화 투표 앱
+간단 영화 투표 앱<br><br>
+사용 : NavDrawer(ActionBar, ToolBar), Fragment, SQLite(DBHelper), GridView, Dialog, Toast, AdapterView
 
 <img src="./images/navDrawer.png">
 <br>

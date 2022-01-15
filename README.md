@@ -1,7 +1,7 @@
 # android-practice
 
 간단 영화 투표 앱<br><br>
-사용 : NavDrawer(ActionBar, ToolBar), Fragment, SQLite(DBHelper), GridView, Dialog, Toast, AdapterView
+사용 : NavDrawer(ActionBar, ToolBar), Fragment, SQLite(DBHelper), GridView, Dialog, Toast, AdapterView, RatingBar
 
 <img src="./images/navDrawer.png">
 <br>

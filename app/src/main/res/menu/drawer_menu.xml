@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_movie_vote"
+            android:icon="@drawable/ic_baseline_email_24"
+            android:title="영화투표"/>
+        <item android:id="@+id/nav_movie_result"
+            android:icon="@drawable/ic_baseline_chat_24"
+            android:title="투표결과"/>
+        <item android:id="@+id/nav_vote_reset"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="투표초기화"/>
+
+
+    </group>
+</menu>
